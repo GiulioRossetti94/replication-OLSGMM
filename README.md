@@ -1,2 +1,2 @@
-# Finance-Papers-Replication
+# replication OLSGMM
 replication of finance papers
